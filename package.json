@@ -1,0 +1,19 @@
+{
+  "name": "404nonfound",
+  "version": "0.0.1",
+  "description": "404 not found responsive",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traDev-CI/404-NotFound-Responsive.git"
+  },
+  "author": "Alfredo Rivas Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traDev-CI/404-NotFound-Responsive/issues"
+  },
+  "homepage": "https://github.com/traDev-CI/404-NotFound-Responsive#readme"
+}
