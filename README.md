@@ -53,5 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/traDev-CI})
-- Twitter [@your-twitter](https://{twitter.com/jirzo_nez})
+- GitHub [@your-username](https://github.com/traDev-CI)
+- Twitter [@your-twitter](https://twitter.com/jirzo_nez)
