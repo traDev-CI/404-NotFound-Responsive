@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://notfound-43ad2.web.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/traDev-CI/404-NotFound-Responsive">
       Solution
     </a>
     <span> | </span>
@@ -53,5 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/traDev-CI})
-- Twitter [@your-twitter](https://{twitter.com/jirzo_nez})
+- GitHub [@traDev-CI](https://github.com/traDev-CI)
+- Twitter [@jirzo_nez](https://twitter.com/jirzo_nez)
